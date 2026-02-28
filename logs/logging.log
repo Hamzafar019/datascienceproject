@@ -1,1 +1,52 @@
 [2026-02-25 22:49:38,372: INFO: main: Welcome to our custom logging data science]
+[2026-02-28 04:31:58,375: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 04:31:58,377: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 04:32:29,819: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 04:32:29,831: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 04:32:29,835: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 04:33:01,761: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 04:33:01,765: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 04:33:01,767: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 04:34:43,075: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 04:34:43,080: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 04:34:43,085: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 04:34:43,088: INFO: common: created directory at: artifacts]
+[2026-02-28 04:34:43,091: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-02-28 04:36:16,629: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 04:36:16,635: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 04:36:16,647: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 04:36:16,651: INFO: common: created directory at: artifacts]
+[2026-02-28 04:36:16,655: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-02-28 04:36:19,619: INFO: 2855616341: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5BD8:323050:6B30F:80D51:69A22A73
+Accept-Ranges: bytes
+Date: Fri, 27 Feb 2026 23:36:20 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fjr990034-FJR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772235380.819575,VS0,VE235
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 43b3e08d1751adc16a8ade78033bb5f29209ec81
+Expires: Fri, 27 Feb 2026 23:41:20 GMT
+Source-Age: 0
+
+]
+[2026-02-28 04:37:00,681: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 04:37:00,687: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 04:37:00,691: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 04:37:00,693: INFO: common: created directory at: artifacts]
+[2026-02-28 04:37:00,697: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-02-28 04:37:00,702: INFO: 3814910863: File aready exists of size:]
