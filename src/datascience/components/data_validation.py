@@ -19,9 +19,9 @@ class DataValidation:
             for col in all_cols:
                 if col not in all_schema:
                     validation_status= False
-            with open(self.config.STATUS_FILE, 'a') as f:
+            with open(self.config.STATUS_FILE, 'w') as f:
                         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                        f.write(f"{current_time} - Validation Status: {validation_status}\n")
+                        f.write(f"{current_time} - Validation Status: {validation_status}")
             return validation_status
         except Exception as e:
             raise e
