@@ -50,3 +50,97 @@ Source-Age: 0
 [2026-02-28 04:37:00,693: INFO: common: created directory at: artifacts]
 [2026-02-28 04:37:00,697: INFO: common: created directory at: artifacts/data_ingestion]
 [2026-02-28 04:37:00,702: INFO: 3814910863: File aready exists of size:]
+[2026-02-28 12:49:54,709: INFO: main: >>>> stage Data Ingestion stage started <<<<]
+[2026-02-28 12:49:54,709: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 12:49:54,729: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 12:49:54,729: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 12:49:54,729: INFO: common: created directory at: artifacts]
+[2026-02-28 12:49:54,729: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-02-28 12:49:54,729: INFO: data_ingestion: File aready exists of size:]
+[2026-02-28 12:49:54,747: INFO: main: >>>> stage Data Ingestion stage completed <<<<]
+[2026-02-28 13:28:32,220: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 13:28:32,222: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 13:28:32,222: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 13:28:32,222: INFO: common: created directory at: artifacts]
+[2026-02-28 13:28:32,222: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 13:30:11,038: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 13:30:11,042: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 13:30:11,042: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 13:30:11,042: INFO: common: created directory at: artifacts]
+[2026-02-28 13:30:11,042: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 13:30:12,852: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 13:30:12,855: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 13:30:12,855: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 13:30:12,855: INFO: common: created directory at: artifacts]
+[2026-02-28 13:30:12,855: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 13:30:22,636: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 13:30:22,638: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 13:30:22,638: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 13:30:22,638: INFO: common: created directory at: artifacts]
+[2026-02-28 13:30:22,638: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 13:52:52,665: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 13:52:52,667: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 13:52:52,672: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 13:52:52,675: INFO: common: created directory at: artifacts]
+[2026-02-28 13:52:52,677: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 13:53:01,685: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 13:53:01,690: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 13:53:01,691: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 13:53:01,691: INFO: common: created directory at: artifacts]
+[2026-02-28 13:53:01,691: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 14:07:42,189: INFO: main: >>>> stage Data Ingestion stage started <<<<]
+[2026-02-28 14:07:42,198: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 14:07:42,200: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 14:07:42,201: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 14:07:42,202: INFO: common: created directory at: artifacts]
+[2026-02-28 14:07:42,203: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-02-28 14:07:43,915: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 989C:21A954:247DA3:2C1894:69A2B05F
+Accept-Ranges: bytes
+Date: Sat, 28 Feb 2026 09:07:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fjr990020-FJR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1772269664.308769,VS0,VE230
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 962b4f17dbcd8dcaf7420f626036167ac9993a76
+Expires: Sat, 28 Feb 2026 09:12:44 GMT
+Source-Age: 0
+
+]
+[2026-02-28 14:07:43,923: INFO: main: >>>> stage Data Ingestion stage completed <<<<]
+[2026-02-28 14:07:43,923: INFO: main: >>>> stage Data Validation stage started <<<<]
+[2026-02-28 14:07:43,929: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 14:07:43,933: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 14:07:43,934: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 14:07:43,934: INFO: common: created directory at: artifacts]
+[2026-02-28 14:07:43,935: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 14:07:43,935: INFO: main: >>>> stage Data Validation stage completed <<<<]
+[2026-02-28 14:08:18,576: INFO: main: >>>> stage Data Ingestion stage started <<<<]
+[2026-02-28 14:08:18,579: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 14:08:18,579: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 14:08:18,579: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 14:08:18,579: INFO: common: created directory at: artifacts]
+[2026-02-28 14:08:18,579: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-02-28 14:08:18,579: INFO: data_ingestion: File aready exists of size:]
+[2026-02-28 14:08:18,586: INFO: main: >>>> stage Data Ingestion stage completed <<<<]
+[2026-02-28 14:08:18,587: INFO: main: >>>> stage Data Validation stage started <<<<]
+[2026-02-28 14:08:18,588: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2026-02-28 14:08:18,593: INFO: common: yaml file: schema.yaml loaded successfully]
+[2026-02-28 14:08:18,594: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-02-28 14:08:18,594: INFO: common: created directory at: artifacts]
+[2026-02-28 14:08:18,595: INFO: common: created directory at: artifacts/data_validation]
+[2026-02-28 14:08:18,610: INFO: main: >>>> stage Data Validation stage completed <<<<]
